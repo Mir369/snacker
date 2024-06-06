@@ -62,7 +62,7 @@ class CookieTypes {
       ]
     ),
     Cookie(
-      'Macaroons', 
+      'Macarons', 
       ['assests/m1.jpg', 'assests/m2.jpg', 'assests/m3.jpg', 'assests/m4.png'],
       [
         '2/3 cup sweetened condensed milk',
